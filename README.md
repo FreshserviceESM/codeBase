@@ -1,2 +1,2 @@
 # codeBase
-Essential toolsfor Freshservice
+Essential tools for Freshservice
